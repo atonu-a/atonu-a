@@ -1,3 +1,13 @@
+<div align="center">
+
+<!-- 
+  STEP 1: Upload banner.svg to your repo root (refat7321-51/refat7321-51)
+  STEP 2: The line below will show the animated gradient banner
+-->
+<img src="https://raw.githubusercontent.com/atonu-a/atonu-a/main/banner.svg" width="100%" alt="Atonu Roy Chowdhury"/>
+
+<br/><br/>
+
 # 💫 About Me:
 Hi there! I'm Atonu Roy Chowdhury 👋<br>​I am a passionate Developer currently deepening my expertise in Backend Development with Django and PostgreSQL. I enjoy building robust systems and bridging the gap between clean code and efficient databases.<br>​🌱 Currently learning: Advanced Django patterns and database optimization.<br>​💻 Frontend Skills: HTML5, CSS3, Tailwind and JavaScript.<br>​🐍 Languages: Python, Java and Javascript.
 
