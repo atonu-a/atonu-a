@@ -22,16 +22,17 @@ Hi there! I'm Atonu Roy Chowdhury 👋<br>​I am a passionate Developer current
 ![](https://streak-stats.demolab.com/?user=atonu-a&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=atonu-a&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=atonu-a&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atonu-a&theme=tokyo-night" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=atonu-a&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=atonu-a&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=atonu-a-51&label=Profile+Views&color=7C3AED&style=flat-square)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
